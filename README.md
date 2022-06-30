@@ -6,3 +6,5 @@ This tutorial is mainly focused on Git and use GitHut as its remote.
 This repository is built step by step in the tutorial.
 
 It now includes steps for GitHub.
+
+It is local branch push to remote repo.
